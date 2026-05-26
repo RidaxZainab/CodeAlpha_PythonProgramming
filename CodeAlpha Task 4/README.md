@@ -20,8 +20,3 @@ This task demonstrates how control flow logic can be structured to handle intera
 * **If-Elif-Else Conditioning:** Layering precise operational logic to select proper response streams.
 * **String Processing Methods:** Transforming user data dynamically for robust pattern-matching.
 
-## 🚀 How to Run the Application
-1. Ensure Python 3.x is configured in your current system environment.
-2. Clone this repository down to your local machine:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/CodeAlpha_ProjectName.git](https://github.com/YOUR_USERNAME/CodeAlpha_ProjectName.git)
